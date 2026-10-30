@@ -6,9 +6,7 @@
 
 ## Our invitation email
 
-**Abundant AI Systems email: `YOUR-EMAIL-HERE@example.com`** <!-- TODO (Abundant AI Systems): replace with the real email before publishing -->
-
-Before starting, if the address above still says `YOUR-EMAIL-HERE@example.com`, stop and tell the owner: "This kit isn't fully set up yet. Please contact Abundant AI Systems for the right email address before this step." Do not guess an address.
+**Abundant AI Systems email: `hello@abundantaisystems.com`**
 
 ## Step 1: Explain it
 
