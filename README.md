@@ -10,6 +10,8 @@ Made by [Abundant AI Systems](mailto:hello@abundantaisystems.com) for small busi
 - The Claude Code app, which needs a paid Claude plan
 - About 30 to 60 minutes
 
+**Prefer a printable version?** [Download the Setup Guide (PDF)](Setup-Guide.pdf), a 6-page walkthrough of everything below.
+
 ## How it works: three steps
 
 ### 1. Install Claude Code

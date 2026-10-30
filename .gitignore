@@ -252,6 +252,8 @@ personal/
 private/
 *.vcf
 *.pdf
+# The kit's own setup guide is meant to be published
+!Setup-Guide.pdf
 *.docx
 *.xlsx
 # OS files
