@@ -218,3 +218,41 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Small Business Setup Kit: keep secrets and personal info out of Git ---
+# Owner progress notes (business details, domain, status)
+my-progress.md
+my-*.md
+# Keys, certificates, and credentials
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+id_rsa*
+id_ed25519*
+*.keystore
+credentials*.json
+client_secret*.json
+service-account*.json
+secrets.*
+*.secret
+# Environment files
+.env
+.env.*
+!.env.example
+# Passwords and exports
+*password*
+*passwd*
+*.kdbx
+*.csv
+# Personal info and documents
+personal/
+private/
+*.vcf
+*.pdf
+*.docx
+*.xlsx
+# OS files
+.DS_Store
