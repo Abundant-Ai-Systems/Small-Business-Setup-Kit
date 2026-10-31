@@ -1,4 +1,4 @@
-# Small Business Setup Kit
+# Foundation for Google and AI Search
 
 This kit is built by Abundant AI Systems for non-technical small business owners. It walks the owner through four setups, one step at a time:
 

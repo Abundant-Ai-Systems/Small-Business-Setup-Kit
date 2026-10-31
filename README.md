@@ -1,4 +1,4 @@
-# Small Business Setup Kit
+# Foundation for Google and AI Search
 
 **A free guided setup for your website, Google Business Profile, Search Console, and social profiles.**
 
@@ -23,7 +23,7 @@ Go to [claude.com/download](https://claude.com/download), download the Claude ap
 Copy everything in the box below, paste it into Claude Code, and press Enter.
 
 ```
-Please download the Small Business Setup Kit from
+Please download the Foundation for Google and AI Search from
 https://github.com/Abundant-Ai-Systems/Small-Business-Setup-Kit
 into my Documents folder, then open it and follow the instructions in
 ONBOARDING.md. Ask me one question at a time, explain every step in plain
